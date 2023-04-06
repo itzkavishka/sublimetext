@@ -18,6 +18,7 @@ Use this comand - ``` sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-k
 
 # Here are the instructions for setup terminus
 - install package manager(ctrl+shift+p) and install terminus
+### copy and paste these keymaps to the exact dirs
 - go to Preference>Package Settings>Terminus>KeyBindings
 -- [
    {
@@ -31,7 +32,7 @@ Use this comand - ``` sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-k
    }
 ]
 - go to Preference>Package Settings>Terminus>Command Palette
--- {
+-- [{
     "caption": "Terminal (panel)",
     "command": "terminus_open",
     "args": {
@@ -40,7 +41,7 @@ Use this comand - ``` sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-k
         "title": "Terminal",
         "panel_name": "Terminus"
     }
-},
+}]
 
 
 - use these axact keymaps
