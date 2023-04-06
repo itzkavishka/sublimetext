@@ -42,6 +42,3 @@ Use this comand - ``` sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-k
         "panel_name": "Terminus"
     }
 }]
-
-
-- use these axact keymaps
